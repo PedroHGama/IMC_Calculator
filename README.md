@@ -1,4 +1,4 @@
-# 🖩 Calculadora de IMC (Indíce de Massa Corporea)
+# 🔢 Calculadora de IMC (Indíce de Massa Corporea)
 
 A proposta para o desenvolvimento deste projeto foi criar uma calculadora para calcular o indíce de massa corporea. Utilizando dos recursos aprendidos durante as aulas do curso Técnico de Desenvolvimento de Sistemas.
 
